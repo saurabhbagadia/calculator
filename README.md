@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/saurabhaz400/Calculator-Demo/_apis/build/status/saurabhbagadia.calculator?branchName=master)](https://dev.azure.com/saurabhaz400/Calculator-Demo/_build/latest?definitionId=24&branchName=master)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
